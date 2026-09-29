@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.book {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.book img {
+  border-radius: 50%;
+}
+.btn1{
+  display:inline-block;
+  background-color:rgb(10, 132, 184);
+  height: 40px;
+  width: 100px;
+  border: none;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+}
+.btn2{
+  display:inline-block;
+  background-color:rgb(255, 0, 0);
+  height: 40px;
+  width: 100px;
+  border: none;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+ 
+margin-left:120px;
+
+}
+.btn3{
+ display:inline-block;
+ height: 40px;
+width: 100px;
+border-radius:  15px;
+margin-left: 140px;
+background-color:rgb(9, 230, 64);
+}
+.inn{
+    display:inline-block;
+}

@@ -1,0 +1,28 @@
+.box {
+    height: 440px;
+    width: 310px;
+    background: linear-gradient(rgb(67, 202, 44), rgb(33, 95, 6));
+    border: 3px double red;
+    border-color:rgb(24, 24, 200);
+    border-radius:15px;
+    margin-left :650px;
+    margin-top :100px;
+    text-align:center;
+    font-weight:bold;
+    color:black;
+    font-size:large;
+}
+button{
+    height:40;
+    width:100px;
+    border-radius:20px;
+    background-color:yellow;
+    font-weight:bolder;
+}
+input{
+    height:20px;
+    width:190px;
+    margin-bottom:15px;
+    background-color:cornsilk;
+    border-radius:12px;
+}
